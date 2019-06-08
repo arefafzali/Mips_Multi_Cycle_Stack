@@ -1,4 +1,4 @@
-# MipsMultiSycle-Stack-
+# MipsMultiSycle-Stack
 Computer Architecture - UT CE - Spring 2019
 
 make simple multi sycle mips architecture as a general propose CPU. note that it works with a Stack unit instead of Register file.
