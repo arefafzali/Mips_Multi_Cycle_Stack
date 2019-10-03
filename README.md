@@ -6,6 +6,7 @@ make simple multi sycle mips architecture as a general propose CPU. note that it
 ### Contributors :
 
  - Behzad Shayegh
+ - Aref Afzali
 
 
 ### Test :
